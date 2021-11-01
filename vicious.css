@@ -1,0 +1,40 @@
+/*Rose Mormino; 10/31/21; vicious.css*/
+
+/* this style rule resets browers' default style */
+body, header, nav, footer {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+/*HEADER STYLE*/
+
+h1{
+    color: cornsilk;
+    font-family: "century-gothic", Arial, Helvetica, sans-serif;
+}
+
+/*NAVIGATION STYLE*/
+
+#navigation {
+    list-style-type: square;
+    background-color: cornsilk;
+    color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:200px;
+    height:100px;
+}
+
+
+/*MAIN STYLE*/
+
+body {
+    background: cornflowerblue;
+    margin-left: 25px;
+}
+
+
+
+/*FOOTER STYLE*/
+
+
